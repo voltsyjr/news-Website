@@ -3,4 +3,5 @@ $conn = mysqli_connect("localhost","root","","news-site")or die("Coneection fail
 $hostname='https://localhost/news-site';
 // this change is made in develope
 // ?another commit
+// commit ki brsat
 ?>
